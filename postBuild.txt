@@ -1,4 +1,6 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable codefolding/main
+jupyter nbextension enable codefolding_in_editor/main
+jupyter nbextension enable highlighter/main
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.38
