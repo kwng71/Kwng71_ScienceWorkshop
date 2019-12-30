@@ -4,5 +4,4 @@ IPython
 ipycanvas
 ipywidgets
 jupyter_contrib_nbextensions
-cv2
 Requests
