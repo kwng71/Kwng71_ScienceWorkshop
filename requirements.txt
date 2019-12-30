@@ -2,6 +2,6 @@ numpy
 matplotlib
 IPython
 ipycanvas
-ipywidgets 7.5.0
+ipywidgets
 jupyter_contrib_nbextensions
 Requests
