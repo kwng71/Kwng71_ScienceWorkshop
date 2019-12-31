@@ -1,0 +1,8 @@
+numpy
+matplotlib
+IPython
+ipycanvas
+ipywidgets
+jupyter_contrib_nbextensions
+Requests
+opencv==4.1.1
