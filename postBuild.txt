@@ -1,6 +1,0 @@
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable highlighter/main
-jupyter nbextension enable codefolding/main
-jupyter nbextension enable --section edit codefolding/edit
-jupyter nbextension install https://rawgit.com/jfbercher/small_nbextensions/master/highlighter.zip  --user
