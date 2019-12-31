@@ -5,4 +5,4 @@ ipycanvas
 ipywidgets
 jupyter_contrib_nbextensions
 Requests
-opencv
+opencv==3.1
