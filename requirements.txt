@@ -2,7 +2,6 @@ numpy
 matplotlib
 opencv-python
 IPython
-ipycanvas
 ipywidgets
 jupyter_contrib_nbextensions
 Requests
