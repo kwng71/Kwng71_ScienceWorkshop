@@ -1,0 +1,27 @@
+﻿Category,Name,Type of Diploma,Gender,Admission Year,Nationality,TP Email,Subjects Aced,Subjects Passed,Subjects Failed
+PG,StuA,,Female,2012,International,1205820@tp.edu.sg,18,12,0
+PNS,StuB,M,Male,2015,SPR,1500115@tp.edu.sg,25,8,0
+PG,StuC,,Male,2012,Singapore Citizen,1200677@tp.edu.sg,19,11,0
+PG,StuD,M,Male,2012,Singapore Citizen,1205712@tp.edu.sg,24,9,0
+FG,StuE,,Male,2018,Singapore Citizen,1803620@tpp.edu.sg,15,14,1
+PG,StuF,,Female,2012,SPR,1204754@tpp.edu.sg,22,8,0
+PNS,StuG,,Female,2015,Singapore Citizen,1504312@tpp.edu.sg,22,8,0
+PG,StuH,,Male,2012,SPR,1200207@tpp.edu.sg,19,11,0
+PG,StuI,,Male,2012,Singapore Citizen,1201248@tpp.edu.sg,22,8,0
+PG,StuJ,,Male,2012,Singapore Citizen,1200692@tpp.edu.sg,15,13,2
+PG,StuK,,Female,2012,International,1200161@tpp.edu.sg,20,10,0
+PG,StuL,,Male,2012,Singapore Citizen,1200111@tpp.edu.sg,21,9,0
+FG,StuM,,Male,2015,Singapore Citizen,1503034@tpp.edu.sg,19,11,0
+PG,StuN,,Male,2012,Singapore Citizen,1201427@tpp.edu.sg,18,12,0
+PG,StuO,,Female,2012,Singapore Citizen,1202822@tpp.edu.sg,20,10,0
+PG,StuP,,Male,2012,Singapore Citizen,1201565@tpp.edu.sg,18,12,0
+PNS,StuQ,,Male,2012,Singapore Citizen,1200114@tpp.edu.sg,19,11,0
+PG,StuR,,Female,2012,Singapore Citizen,1204260@tpp.edu.sg,22,8,0
+PG,StuS,,Male,2012,Singapore Citizen,1201491@tpp.edu.sg,18,12,0
+PG,StuT,M,Male,2012,Singapore Citizen,1203972@tpp.edu.sg,25,8,0
+PG,StuU,,Female,2012,International,1205822@tpp.edu.sg,11,15,4
+PG,StuV,,Female,2012,Singapore Citizen,1202808@tpp.edu.sg,19,11,0
+PNS,StuW,,Male,2015,Singapore Citizen,1501668@tpp.edu.sg,18,12,0
+FG,StuX,,Male,2018,Singapore Citizen,1801491@tpp.edu.sg,18,12,0
+PNS,StuY,M,Male,2015,Singapore Citizen,1503972@tpp.edu.sg,25,8,0
+FG,StuZ,,Female,2018,International,1805822@tpp.edu.sg,11,14,5
